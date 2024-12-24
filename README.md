@@ -1,2 +1,1 @@
-# Dischi.az
-Dental Clinic Management System.
+# Öyünüzü bizimlə tapın
